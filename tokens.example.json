@@ -1,0 +1,9 @@
+{
+    "toggl_tokens": [
+        "TOKEN_1",
+        "TOKEN_2"
+    ],
+    "clockify_tokens": [
+        "TOKEN_1"
+    ]
+}
